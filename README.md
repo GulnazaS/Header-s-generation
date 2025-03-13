@@ -1,2 +1,4 @@
-# Header-s-generation
-Summarization
+# Генерация заголовков новостей
+Задача суммаризации
+
+
